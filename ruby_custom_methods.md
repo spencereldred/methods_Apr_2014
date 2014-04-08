@@ -8,10 +8,10 @@
 
 * <h3> By the end of this lesson you should be able to:
 
-	* <h3> write a custom method that takes variables as arguments.
-	* <h3> write a custom method that takes an array as an argument.
-	* <h3> write a custom method that takes a block as an argument.
-	* <h3> create a command line menu
+	* write a custom method that takes variables as arguments.
+	* write a custom method that takes an array as an argument.
+	* write a custom method that takes a block as an argument.
+	* create a command line menu
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
