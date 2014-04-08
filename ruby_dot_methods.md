@@ -2,12 +2,12 @@
 
 # Student Learning Objectives: (5 min)
 
-* <h2> By the end of this lesson you should be able to:
+* <h3> By the end of this lesson you should be able to:
 
-	* <h3>find the documentation for the .inspect method of a ruby array in the Ruby Docs (ruby-doc.org).
-	* <h3> use .split() method to convert a sentence string into an array of individual words.
-	* <h3> use the .each method to list out the elements in an array.
-	* <h3> use the .each method to list out the key-value pairs of a hash.
+	* find the documentation for the .inspect method of a ruby array in the Ruby Docs (ruby-doc.org).
+	* use .split() method to convert a sentence string into an array of individual words.
+	* use the .each method to list out the elements in an array.
+	* use the .each method to list out the key-value pairs of a hash.
 	
 	
 # What are methods for:
@@ -17,7 +17,7 @@
 
 # Built in Methods:
 * <h3> Built in methods are are invoked using the "dot notation"
-* <h2> Strings: (10 min)
+* <h3> Strings: (10 min)
 	* <h3> Exercise: Go to ruby-doc.org
 	* click on 2.0.0 Core
 	* scroll down to Classes "filter.....": enter String, click on String
@@ -37,7 +37,7 @@
 	* if extra time, try out the extra built in String methods listed below.
 * <h3> Exercise 1: (show solutions) (5 min)
 	
-* <h2> Arrays:  ( 15 min)
+* <h3> Arrays:  ( 15 min)
 	* .length, .each and .map are perhaps the most used "dot" methods:
 
 			array = [1,2,3,4,5]
@@ -67,7 +67,7 @@
 	* if extra time, try out the extra built in Array methods listed below.
 * <h3> Exercise 2: (show solutions) (5 min)
 
-* <h2> Hashes: (15 min)
+* <h3> Hashes: (15 min)
 	* .each is also very useful for hashes as well. 
 	
 			month_hash = { January: 31, February: 28, March: 31 }

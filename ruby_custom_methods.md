@@ -6,7 +6,7 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # Student Learning Objectives: 
 
-* <h2> By the end of this lesson you should be able to:
+* <h3> By the end of this lesson you should be able to:
 
 	* <h3> write a custom method that takes variables as arguments.
 	* <h3> write a custom method that takes an array as an argument.
@@ -196,4 +196,4 @@
 
 ## Exercise 3:
 
-#### 1. Create a command line menu four function calculator. Create a calculate method or methods that get called from your case statement.
+#### 1. Create a four function calculator that runs from a command line menu. Create a calculate method or methods that get called from your case statement.
